@@ -42,7 +42,7 @@
 
               - Cria variaveis que guardem o valor da velocidade e a marca da viatura.
 
-              - Cria uma variável que guarde a variável da marca e depois altere a variável criada para outra marca.
+              - Cria uma variável que guarde "a variável" da marca e depois altere a variável criada para outra marca.
 
               - Cria uma variável que guarde a variável da velocidade. Converte-a para 200.0 km/h
 
